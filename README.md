@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
